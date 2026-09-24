@@ -1,17 +1,25 @@
-# To-Do Web App
+# Student Management System
 
-A simple responsive To-Do application built using HTML, CSS and JavaScript.
+A simple Java console-based Student Management System.
 
 ## Technologies
-- HTML5
-- CSS3
-- JavaScript
+- Java
+- Object-Oriented Programming
+- ArrayList
+- Scanner
 
 ## Features
-- Add tasks
-- Mark tasks as completed
-- Delete tasks
-- Tasks are saved in browser localStorage
+- Add student
+- View all students
+- Search student by ID
+- Delete student by ID
 
-## How to run
-Open `index.html` in any modern web browser.
+## How to Run
+
+Compile the program:
+
+javac StudentManagementSystem.java
+
+Run the program:
+
+java StudentManagementSystem
